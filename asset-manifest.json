@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/configdesigner/static/css/main.356775f5.chunk.css",
+    "main.css": "/configdesigner/static/css/main.9d1d0af4.chunk.css",
     "main.js": "/configdesigner/static/js/main.8fea0161.chunk.js",
     "main.js.map": "/configdesigner/static/js/main.8fea0161.chunk.js.map",
     "runtime-main.js": "/configdesigner/static/js/runtime-main.5beddeba.js",
     "runtime-main.js.map": "/configdesigner/static/js/runtime-main.5beddeba.js.map",
-    "static/css/2.31461e4f.chunk.css": "/configdesigner/static/css/2.31461e4f.chunk.css",
+    "static/css/2.6d7c7915.chunk.css": "/configdesigner/static/css/2.6d7c7915.chunk.css",
     "static/js/2.b1561559.chunk.js": "/configdesigner/static/js/2.b1561559.chunk.js",
     "static/js/2.b1561559.chunk.js.map": "/configdesigner/static/js/2.b1561559.chunk.js.map",
     "static/js/3.3d68e33a.chunk.js": "/configdesigner/static/js/3.3d68e33a.chunk.js",
     "static/js/3.3d68e33a.chunk.js.map": "/configdesigner/static/js/3.3d68e33a.chunk.js.map",
     "index.html": "/configdesigner/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/configdesigner/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.356775f5.chunk.css.map": "/configdesigner/static/css/main.356775f5.chunk.css.map",
+    "static/css/2.6d7c7915.chunk.css.map": "/configdesigner/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.9d1d0af4.chunk.css.map": "/configdesigner/static/css/main.9d1d0af4.chunk.css.map",
     "static/js/2.b1561559.chunk.js.LICENSE.txt": "/configdesigner/static/js/2.b1561559.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5beddeba.js",
-    "static/css/2.31461e4f.chunk.css",
+    "static/css/2.6d7c7915.chunk.css",
     "static/js/2.b1561559.chunk.js",
-    "static/css/main.356775f5.chunk.css",
+    "static/css/main.9d1d0af4.chunk.css",
     "static/js/main.8fea0161.chunk.js"
   ]
 }
