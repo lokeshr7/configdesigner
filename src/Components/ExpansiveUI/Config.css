@@ -1,0 +1,37 @@
+body{
+	background-color: rgb(210,214,222, 0.2);
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	/*display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 10px;*/
+}
+.box{
+	/*grid-row: auto;*/
+	background-color: #ffffff;
+	max-width: 710px;
+	width: 100%;
+	margin-bottom: 20px;
+	transition: all 0.5s;
+}
+.box:hover{
+	transform: scale(1.03);
+}
+.group{
+	background-color: #0071CE;
+	color: white;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.submit{
+	background-color: #0071CE;
+	color: #ffffff;
+	padding: 10px;
+}
+p{
+	line-height: 1.6;
+	margin: 0;
+	margin-top: 10px;
+}
